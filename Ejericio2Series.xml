@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <SeriesList>
+        <Serie>
+            <NameSerie> Breaking Bad </NameSerie>
+            <Categoria> Drama criminal </Categoria>
+            <Clasificacion> R </Clasificacion>
+            <Seasons> 5 </Seasons>
+            <Episodes> 62 </Episodes> 
+            <Actors>
+                <Actor> Bryan Cranston </Actor>   
+                <Actor> Aaron Paul </Actor>
+                <Actor> Bob Odenkirk </Actor> 
+            </Actors>
+        </Serie>
+        <Serie>
+            <NameSerie> Malcom in the middle </NameSerie>
+            <Categoria> Comedia </Categoria>
+            <Clasificacion> TV-14 </Clasificacion>
+            <Seasons> 7 </Seasons>
+            <Episodes> 151 </Episodes> 
+            <Actors>
+                <Actor> Bryan Cranston </Actor>   
+                <Actor> Jane Kaczmarek </Actor>
+                <Actor> Frankie Muniz </Actor>
+                <Actor> Justin Berfield </Actor>
+                <Actor> Erik Per Sullivan </Actor>
+                <Actor> Christopher Masterson </Actor>
+            </Actors>
+        </Serie>
+         <Serie>
+            <NameSerie> You </NameSerie>
+            <Categoria> Thriller psicológico </Categoria>
+            <Clasificacion> R </Clasificacion>
+            <Seasons> 3 </Seasons>
+            <Episodes> 30 </Episodes> 
+            <Actors>
+                <Actor> Penn Badgley </Actor>   
+                <Actor> Victoria Pedretti </Actor>
+                <Actor> Elizabeth Lail </Actor> 
+            </Actors>
+        </Serie>
+        <Serie>
+            <NameSerie> How to sell drugs online fast </NameSerie>
+            <Categoria> Drama Adolescente criminal </Categoria>
+            <Clasificacion> R </Clasificacion>
+            <Seasons> 3 </Seasons>
+            <Episodes> 18 </Episodes> 
+            <Actors>
+                <Actor> Maximilian Mundt </Actor>   
+                <Actor> Danilo Kamber </Actor>
+                <Actor> Anna Lena Klenne </Actor> 
+            </Actors>
+        </Serie>
+        <Serie>
+            <NameSerie> Stranger Things </NameSerie>
+            <Categoria> Drama criminal </Categoria>
+            <Clasificacion> TV-16 </Clasificacion>
+            <Seasons> 4 </Seasons>
+            <Episodes> 34 </Episodes> 
+            <Actors>
+                <Actor> Millie Bobby Brown </Actor>   
+                <Actor> Finn Wolfhard </Actor>
+                <Actor> Noah Schnapp </Actor> 
+                <Actor> Caleb McLaughlin </Actor>
+                <Actor> Sadie Sink </Actor>
+                <Actor> Gaten Matarazzo </Actor>
+            </Actors>
+        </Serie>
+    </SeriesList>
